@@ -1,1 +1,1 @@
-i make games & software for fun
+silly fool
