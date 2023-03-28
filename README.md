@@ -1,1 +1,1 @@
-silly fool
+Creator of trinkets and gadgets.
