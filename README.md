@@ -1,1 +1,1 @@
-Creator of trinkets and gadgets.
+Most of my projects usually rot on my private git server because I either never get through to finishing them or they're proprietary, so my GitHub account is a little unimpressive, but to any future employers, I swear I have more stuff. it's just not public, trust me, bro.
