@@ -6,6 +6,8 @@ I'm an Arch Linux guy, so while I probably preach it way more than I think I do,
 
 I also usually self-host all of my crap since I don't trust GCS/AWS or whoever, and also because I had an incident where GCS drew 300£ from me because I forgot to turn off an instance for an entire year. So now I have a giant server rack with a bunch of power-guzzling second-hand servers rotting in my storage room. It keeps the house warm, though, so I guess it's not all bad.
 
+Unfortunately a part of the Vim cult.
+
 I also have a website: https://kalsvik.no
 
 I also have a contact email that resembles my full name, which is kinda neat: jonas@kalsvik.no
